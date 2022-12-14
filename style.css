@@ -1,0 +1,63 @@
+
+h4{
+    color: rgb(10, 10, 136);
+    padding-top: px;
+
+
+}
+
+
+
+table{
+    border: 1px;
+    border-collapse: collapse;
+    width: 500px;
+    text-align: left;
+
+
+}
+
+table, td {
+    border: 1px solid black;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+}
+
+
+tr:nth-child(even) {background-color: #f2f2f2}
+
+main{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+.numero{
+color: rgb(22, 22, 136);
+
+}
+
+.numero1{
+
+    color: rgb(7, 184, 184);
+}
+
+.numero2{
+color: #d8b35f
+
+}
+
+.numero3{
+color: gray
+
+}
+
+.numero4{
+color: red
+
+}
+
+
